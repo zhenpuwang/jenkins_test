@@ -1,0 +1,12 @@
+com\wang\controller\StuFooController.class
+com\wang\controller\BaseController.class
+com\wang\controller\ItemsController.class
+com\wang\aspect\ServiceLogAspect.class
+com\wang\config\CorsConfig.class
+com\wang\controller\IndexController.class
+com\wang\config\Swagger2.class
+com\wang\controller\PassportController.class
+com\wang\controller\AddressController.class
+com\wang\Application.class
+com\wang\controller\RedisController.class
+com\wang\controller\HelloController.class

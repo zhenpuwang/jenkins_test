@@ -1,0 +1,12 @@
+com\wang\service\ItemService.class
+com\wang\service\CarouseService.class
+com\wang\service\impl\CarouselServiceImpl.class
+com\wang\service\CategoryService.class
+com\wang\service\StuService.class
+com\wang\service\impl\ItemServiceImpl.class
+com\wang\service\impl\StuServiceImpl.class
+com\wang\service\impl\CategorylServiceImpl.class
+com\wang\service\impl\UserServiceImpl.class
+com\wang\service\AddressService.class
+com\wang\service\impl\AddressServiceImpl.class
+com\wang\service\UserService.class
